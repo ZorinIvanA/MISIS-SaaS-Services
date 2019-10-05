@@ -1,0 +1,11 @@
+D:\Repos\Studying\WebServices.AsyncWorks\WebServices.AsyncWorks\bin\Debug\netcoreapp2.2\WebServices.AsyncWorks.deps.json
+D:\Repos\Studying\WebServices.AsyncWorks\WebServices.AsyncWorks\bin\Debug\netcoreapp2.2\WebServices.AsyncWorks.runtimeconfig.json
+D:\Repos\Studying\WebServices.AsyncWorks\WebServices.AsyncWorks\bin\Debug\netcoreapp2.2\WebServices.AsyncWorks.runtimeconfig.dev.json
+D:\Repos\Studying\WebServices.AsyncWorks\WebServices.AsyncWorks\bin\Debug\netcoreapp2.2\WebServices.AsyncWorks.dll
+D:\Repos\Studying\WebServices.AsyncWorks\WebServices.AsyncWorks\bin\Debug\netcoreapp2.2\WebServices.AsyncWorks.pdb
+D:\Repos\Studying\WebServices.AsyncWorks\WebServices.AsyncWorks\obj\Debug\netcoreapp2.2\WebServices.AsyncWorks.csprojAssemblyReference.cache
+D:\Repos\Studying\WebServices.AsyncWorks\WebServices.AsyncWorks\obj\Debug\netcoreapp2.2\WebServices.AsyncWorks.csproj.CoreCompileInputs.cache
+D:\Repos\Studying\WebServices.AsyncWorks\WebServices.AsyncWorks\obj\Debug\netcoreapp2.2\WebServices.AsyncWorks.AssemblyInfoInputs.cache
+D:\Repos\Studying\WebServices.AsyncWorks\WebServices.AsyncWorks\obj\Debug\netcoreapp2.2\WebServices.AsyncWorks.AssemblyInfo.cs
+D:\Repos\Studying\WebServices.AsyncWorks\WebServices.AsyncWorks\obj\Debug\netcoreapp2.2\WebServices.AsyncWorks.dll
+D:\Repos\Studying\WebServices.AsyncWorks\WebServices.AsyncWorks\obj\Debug\netcoreapp2.2\WebServices.AsyncWorks.pdb
